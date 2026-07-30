@@ -1,5 +1,8 @@
-title: Dinky theme
-description: Dinky is a red hot theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-dinky
+  title: HongSen的代码生活
+  author: HongSen                        
+  email: 2236120057@qq.com          
+  description: >-                      
+    这是一个通过 Fork 模板搭建的个人网站，
+    用于记录学习和生活。
+  url: "https://DDY-SDU.github.io"     
+  baseurl: ""                       
